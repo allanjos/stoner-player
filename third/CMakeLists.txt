@@ -1,0 +1,5 @@
+ADD_SUBDIRECTORY(portaudio)
+
+ADD_SUBDIRECTORY(hash)
+
+ADD_SUBDIRECTORY(libsndfile)
